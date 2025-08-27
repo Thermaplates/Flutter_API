@@ -65,11 +65,5 @@ https://github.com/user-attachments/assets/a16763dd-8421-4bec-a7bf-2b16f755e0e3
 
 ---
 
-## ⚖️ Lisensi
-
-Proyek ini menggunakan lisensi **MIT**.
-Silakan gunakan, modifikasi, dan sebarkan dengan bebas.
-
-```
 
 
