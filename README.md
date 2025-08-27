@@ -58,9 +58,10 @@ A Flutter app yang menampilkan daftar monster dari [Open5e API](https://api.open
 
 ## 📸 Screenshots
 
-| List View                     | Grid View                     | Detail Monster                    |
-| ----------------------------- | ----------------------------- | --------------------------------- |
-| ![List](screenshots/list.png) | ![Grid](screenshots/grid.png) | ![Detail](screenshots/detail.png) |
+
+
+https://github.com/user-attachments/assets/a16763dd-8421-4bec-a7bf-2b16f755e0e3
+
 
 ---
 
