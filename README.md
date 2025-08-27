@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 📖 Bestiary of Eldritch Horrors
 
 A Flutter app yang menampilkan daftar monster dari [Open5e API](https://api.open5e.com/monsters/), dengan tampilan modern bertema Lovecraftian yang gelap dan misterius.  
@@ -30,7 +30,7 @@ A Flutter app yang menampilkan daftar monster dari [Open5e API](https://api.open
    ```bash
    git clone https://github.com/username/bestiary-eldritch.git
    cd bestiary-eldritch
-````
+   
 
 3. Jalankan perintah berikut di terminal:
 
